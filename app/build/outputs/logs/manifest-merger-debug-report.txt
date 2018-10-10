@@ -4,37 +4,6 @@ ADDED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/mai
 INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:2:1-53:12
 INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:2:1-53:12
 INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:2:1-53:12
-MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] /home/user/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.6.0.aar/50344ede7516ce55b82a15c8bd478f8b/AndroidManifest.xml:2:1-12:12
-MERGED from [com.facebook.android:facebook-login:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.37.0.aar/cc13f8eb6dc3e61c1d6b55a4aba91f4e/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:21:1-37:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/71618ab159e0b482e76160fc1a15a94e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/257516c115744c9054a3501199fce002/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/adfaab05ad13acf6e178d8a1dc6567da/AndroidManifest.xml:2:1-11:12
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/0145868f9324c708a3d2a5c5f6439f4d/AndroidManifest.xml:2:1-11:12
-MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /home/user/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/f8932157e6bdaf1fa7c1317b59dba19a/AndroidManifest.xml:2:1-12:12
-MERGED from [com.google.android.gms:play-services-location:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.4.aar/0671d7eda71212bf2b8816fabd6a7382/AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-places:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.4.aar/c5e13b7c21652fb91aebd33f3ceb2117/AndroidManifest.xml:16:1-19:12
-MERGED from [:linkedin-sdk-release] /home/user/.gradle/caches/transforms-1/files-1.1/linkedin-sdk-release.aar/673c85a5414c2505b63b606e90df764f/AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:exifinterface:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/78e900955079184395817819558bbd74/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:21:1-53:12
-MERGED from [com.android.support:customtabs:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/f8e14aecee7cc84a36e5dab745281c82/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f0fd7dcae9edb8998c4d093ce48bc61a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5658ebceeee93bebbea6e5be59f3c93f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:16:1-25:12
-MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/87d19c478482d7e45f8c6bbbcead6242/AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/152d2e075243f08e88229df7b2222cc0/AndroidManifest.xml:16:1-23:12
-MERGED from [com.android.support:support-v4:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/0a1e7d0f2befd93006b8c8ed7a7d9c88/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d38bce5f905b126b19547194307c055f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/976e718dc40ca7326f75ed662b7ee10f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/52b9481c17607138c06d540453bae6ec/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/30597371becb67fa6a300c26411b3fed/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/13166d5d567e577c9eb875fd38851b91/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b7626ea818d50e4e9ef7dd6570b44a9f/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f8302823396db0403f57f25121b5a1ce/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:2:1-53:12
 INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:2:1-53:12
 INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:2:1-53:12
@@ -54,16 +23,10 @@ INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/
 		ADDED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:5:5-79
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:19:5-78
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:19:5-78
 	android:name
 		ADDED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:5:22-76
 uses-permission#android.permission.INTERNET
 ADDED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:6:5-67
-MERGED from [:linkedin-sdk-release] /home/user/.gradle/caches/transforms-1/files-1.1/linkedin-sdk-release.aar/673c85a5414c2505b63b606e90df764f/AndroidManifest.xml:11:5-67
-MERGED from [:linkedin-sdk-release] /home/user/.gradle/caches/transforms-1/files-1.1/linkedin-sdk-release.aar/673c85a5414c2505b63b606e90df764f/AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
@@ -80,30 +43,6 @@ ADDED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/mai
 		ADDED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:11:29-71
 application
 ADDED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:13:5-51:19
-MERGED from [com.facebook.android:facebook-login:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.37.0.aar/cc13f8eb6dc3e61c1d6b55a4aba91f4e/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.37.0.aar/cc13f8eb6dc3e61c1d6b55a4aba91f4e/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:28:5-35:19
-MERGED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:28:5-35:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/adfaab05ad13acf6e178d8a1dc6567da/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/adfaab05ad13acf6e178d8a1dc6567da/AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/0145868f9324c708a3d2a5c5f6439f4d/AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/0145868f9324c708a3d2a5c5f6439f4d/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-location:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.4.aar/0671d7eda71212bf2b8816fabd6a7382/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-location:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.4.aar/0671d7eda71212bf2b8816fabd6a7382/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-places:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.4.aar/c5e13b7c21652fb91aebd33f3ceb2117/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-places:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.4.aar/c5e13b7c21652fb91aebd33f3ceb2117/AndroidManifest.xml:18:5-19
-MERGED from [:linkedin-sdk-release] /home/user/.gradle/caches/transforms-1/files-1.1/linkedin-sdk-release.aar/673c85a5414c2505b63b606e90df764f/AndroidManifest.xml:13:5-20
-MERGED from [:linkedin-sdk-release] /home/user/.gradle/caches/transforms-1/files-1.1/linkedin-sdk-release.aar/673c85a5414c2505b63b606e90df764f/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:28:5-51:19
-MERGED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:28:5-51:19
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/87d19c478482d7e45f8c6bbbcead6242/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/87d19c478482d7e45f8c6bbbcead6242/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/152d2e075243f08e88229df7b2222cc0/AndroidManifest.xml:19:5-21:19
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/152d2e075243f08e88229df7b2222cc0/AndroidManifest.xml:19:5-21:19
 	android:supportsRtl
 		ADDED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml:18:9-35
 	android:label
@@ -180,68 +119,6 @@ uses-sdk
 INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml
 INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml
-MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] /home/user/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.6.0.aar/50344ede7516ce55b82a15c8bd478f8b/AndroidManifest.xml:8:5-10:41
-MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] /home/user/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.6.0.aar/50344ede7516ce55b82a15c8bd478f8b/AndroidManifest.xml:8:5-10:41
-MERGED from [com.facebook.android:facebook-login:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.37.0.aar/cc13f8eb6dc3e61c1d6b55a4aba91f4e/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.37.0.aar/cc13f8eb6dc3e61c1d6b55a4aba91f4e/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/71618ab159e0b482e76160fc1a15a94e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/71618ab159e0b482e76160fc1a15a94e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/257516c115744c9054a3501199fce002/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/257516c115744c9054a3501199fce002/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/adfaab05ad13acf6e178d8a1dc6567da/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/adfaab05ad13acf6e178d8a1dc6567da/AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/0145868f9324c708a3d2a5c5f6439f4d/AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/user/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/0145868f9324c708a3d2a5c5f6439f4d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /home/user/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/f8932157e6bdaf1fa7c1317b59dba19a/AndroidManifest.xml:8:5-10:41
-MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /home/user/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/f8932157e6bdaf1fa7c1317b59dba19a/AndroidManifest.xml:8:5-10:41
-MERGED from [com.google.android.gms:play-services-location:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.4.aar/0671d7eda71212bf2b8816fabd6a7382/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-location:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.4.aar/0671d7eda71212bf2b8816fabd6a7382/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-places:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.4.aar/c5e13b7c21652fb91aebd33f3ceb2117/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-places:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.4.aar/c5e13b7c21652fb91aebd33f3ceb2117/AndroidManifest.xml:17:5-43
-MERGED from [:linkedin-sdk-release] /home/user/.gradle/caches/transforms-1/files-1.1/linkedin-sdk-release.aar/673c85a5414c2505b63b606e90df764f/AndroidManifest.xml:7:5-9:41
-MERGED from [:linkedin-sdk-release] /home/user/.gradle/caches/transforms-1/files-1.1/linkedin-sdk-release.aar/673c85a5414c2505b63b606e90df764f/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:exifinterface:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/78e900955079184395817819558bbd74/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/78e900955079184395817819558bbd74/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:customtabs:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/f8e14aecee7cc84a36e5dab745281c82/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/f8e14aecee7cc84a36e5dab745281c82/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f0fd7dcae9edb8998c4d093ce48bc61a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f0fd7dcae9edb8998c4d093ce48bc61a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5658ebceeee93bebbea6e5be59f3c93f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5658ebceeee93bebbea6e5be59f3c93f/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/87d19c478482d7e45f8c6bbbcead6242/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/87d19c478482d7e45f8c6bbbcead6242/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/152d2e075243f08e88229df7b2222cc0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/152d2e075243f08e88229df7b2222cc0/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/0a1e7d0f2befd93006b8c8ed7a7d9c88/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/0a1e7d0f2befd93006b8c8ed7a7d9c88/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d38bce5f905b126b19547194307c055f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d38bce5f905b126b19547194307c055f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/976e718dc40ca7326f75ed662b7ee10f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/976e718dc40ca7326f75ed662b7ee10f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/52b9481c17607138c06d540453bae6ec/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/52b9481c17607138c06d540453bae6ec/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/30597371becb67fa6a300c26411b3fed/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/30597371becb67fa6a300c26411b3fed/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/13166d5d567e577c9eb875fd38851b91/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/13166d5d567e577c9eb875fd38851b91/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b7626ea818d50e4e9ef7dd6570b44a9f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b7626ea818d50e4e9ef7dd6570b44a9f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f8302823396db0403f57f25121b5a1ce/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f8302823396db0403f57f25121b5a1ce/AndroidManifest.xml:20:5-44
 INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml
 INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -252,59 +129,3 @@ INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/
 		INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml
 		ADDED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml
 		INJECTED from /home/user/Documents/Confirm_Backup/ConfirmU_dilip_25july/app/src/main/AndroidManifest.xml
-activity#com.facebook.FacebookActivity
-ADDED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:29:9-32:66
-	android:configChanges
-		ADDED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:31:13-96
-	android:theme
-		ADDED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:32:13-63
-	android:name
-		ADDED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:30:13-57
-activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:33:9-71
-	android:name
-		ADDED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:33:19-68
-activity#com.facebook.CustomTabActivity
-ADDED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:34:9-67
-	android:name
-		ADDED from [com.facebook.android:facebook-common:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/AndroidManifest.xml:34:19-64
-provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:39:9-42:40
-	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:41:13-72
-	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:42:13-37
-	android:name
-		ADDED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:40:13-70
-receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
-ADDED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:44:9-50:20
-	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:46:13-37
-	android:name
-		ADDED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:45:13-86
-intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:47:13-49:29
-action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:48:17-95
-	android:name
-		ADDED from [com.facebook.android:facebook-core:4.37.0] /home/user/.gradle/caches/transforms-1/files-1.1/facebook-core-4.37.0.aar/ef529a3b83d122b6808795b260f5b122/AndroidManifest.xml:48:25-92
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:21:5-77
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:21:19-51
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2eeb94f1bf00a393eba4bdff8f9c879c/AndroidManifest.xml:21:52-75
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/AndroidManifest.xml:19:146-170
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/AndroidManifest.xml:19:86-145
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/AndroidManifest.xml:19:19-85
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/152d2e075243f08e88229df7b2222cc0/AndroidManifest.xml:20:9-121
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/152d2e075243f08e88229df7b2222cc0/AndroidManifest.xml:20:66-119
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/152d2e075243f08e88229df7b2222cc0/AndroidManifest.xml:20:20-65

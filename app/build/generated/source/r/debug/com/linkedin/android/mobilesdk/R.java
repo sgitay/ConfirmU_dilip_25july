@@ -8,12 +8,12 @@ package com.linkedin.android.mobilesdk;
 
 public final class R {
     public static final class drawable {
-        public static final int ic_launcher = 0x7f0700a3;
+        public static int ic_launcher = 0x7f0900d6;
     }
     public static final class string {
-        public static final int update_linkedin_app_cancel = 0x7f0d0071;
-        public static final int update_linkedin_app_download = 0x7f0d0072;
-        public static final int update_linkedin_app_message = 0x7f0d0073;
-        public static final int update_linkedin_app_title = 0x7f0d0074;
+        public static int update_linkedin_app_cancel = 0x7f1500aa;
+        public static int update_linkedin_app_download = 0x7f1500ab;
+        public static int update_linkedin_app_message = 0x7f1500ac;
+        public static int update_linkedin_app_title = 0x7f1500ad;
     }
 }
