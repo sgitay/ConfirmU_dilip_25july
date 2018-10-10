@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:linkedin-sdk-release">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/linkedin-sdk-release.aar/673c85a5414c2505b63b606e90df764f/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/linkedin-sdk-release.aar/673c85a5414c2505b63b606e90df764f/jars/libs/volley.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/linkedin-sdk-release.aar/673c85a5414c2505b63b606e90df764f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
